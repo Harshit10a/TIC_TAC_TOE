@@ -2,7 +2,7 @@
 
 A simple **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates a fully functional implementation of the classic game that can be played by two users on the same device.
 
-![Tic Tac Toe]([XpNhbaZPA2URnibSh7WhTpTGkSs9uhggQ8JSFvX/y0M0bVgb6ybaZaVr/a/RsDbXLzXLDVZkUoe1wY6wHpgb/THtTfa8dRYDGWRLaGQRzyBfQieL3gwyJrSy6Pm199Rhbfre019dbjYU1hZziPVu2BL28pw2TLkSdnNb/iwyJXQBkemCJ6EG1OXGt6acJaHZkwmdeLMk1EVGTPTeFlT6sDZFqAHXFTSQRX6ELiDWZ0sc1mYIoetBjQiUG26EOoPmkMSyyIywB2RQCMkiL0I4g0LvpOfty6DQu7hvgU8Lvq4pI0Isg0KegcqHsDwPuoJzzIYwDOjpfnMhDA3RtaByw4TQP03YArLIg5CWQaFyFlkQUjMoVMoiB0J6BoXcSYMBYUwGhZyrDwaEURkU0llMHFbT67yx1r2tIots1nkXiHRAmUU2a/XXiNQhulZXAfIgXCLGAQpE+f0MPAjraE+4HauU2gXCldIQJrNKqZPjlVI8eJvQaq+9eOh/UP7SAt1+/w0AAAAASUVORK5CYII=](https://www.google.com/imgres?q=tic%20tac%20toe&imgurl=https%3A%2F%2Fus1.discourse-cdn.com%2Fbubble%2Foriginal%2F3X%2F4%2Fc%2F4c583a00f6a44768aa32b706547ae96f0162f1a3.png&imgrefurl=https%3A%2F%2Fforum.bubble.io%2Ft%2Ftic-tac-toe-tutorial%2F286174&docid=vqTmXVse_6z9SM&tbnid=KtbVDakBiFrfgM&vet=12ahUKEwi305K6x8aLAxVzyjgGHTKKNBEQM3oECDEQAA..i&w=673&h=619&hcb=2&ved=2ahUKEwi305K6x8aLAxVzyjgGHTKKNBEQM3oECDEQAA))  <!-- Replace with your image link -->
+![Tic Tac Toe](https://us1.discourse-cdn.com/bubble/original/3X/4/c/4c583a00f6a44768aa32b706547ae96f0162f1a3.png)
 
 ## Features
 - **Two-player gameplay**: Users take turns to place their marks (X or O) on the grid.

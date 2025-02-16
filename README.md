@@ -10,7 +10,7 @@ A simple **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaScript**.
 - **Game logic**: Detects win conditions and allows for alternating turns between players.
 - **New Game Button**: Restart the game anytime by clicking the "New Game" button.
 
-![Gameplay Screenshot](Screenshot 2025-02-16 195639.png)  
+![Gameplay Screenshot]((https://raw.githubusercontent.com/Harshit10a/TIC_TAC_TOE/main/Screenshot%202025-02-16%20195639.png))  
 
 ## Project Goals
 I built this project to enhance my **JavaScript** skills and apply my knowledge of **HTML** and **CSS** in a practical, interactive way. This project helped me gain hands-on experience with:
